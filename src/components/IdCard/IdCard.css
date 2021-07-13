@@ -1,0 +1,12 @@
+#idCard {
+    border: 1px solid black;
+}
+
+#idCard img {
+    width: 100px;
+    height: 100px;
+}
+
+#idCardInfo {
+    font-size: x-small;
+}
